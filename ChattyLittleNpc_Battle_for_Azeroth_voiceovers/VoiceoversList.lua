@@ -1,5 +1,5 @@
 ---@class ChattyLittleNpc_Battle_for_Azeroth_voiceovers
-local ChattyLittleNpc_Battle_for_Azeroth_voiceovers = LibStub("AceAddon-3.0"):GetAddon("ChattyLittleNpc_Battle_for_Azeroth_voiceovers")
+local ChattyLittleNpc_Battle_for_Azeroth_voiceovers = _G["ChattyLittleNpc_Battle_for_Azeroth_voiceovers"]
 
 ChattyLittleNpc_Battle_for_Azeroth_voiceovers.Voiceovers = {
     '11665_Comp.mp3',
