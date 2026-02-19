@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate VoiceoversList.lua
         run: |
-          cd ChattyLittleNpc_Dragonflight_voiceovers
+          cd ChattyLittleNpc_Battle_for_Azeroth_voiceovers
           python generate_voicovers_list_file.py
 
       - name: Create Addon ZIP
