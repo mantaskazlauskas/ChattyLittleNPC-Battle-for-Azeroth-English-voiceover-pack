@@ -1,0 +1,8 @@
+package-as: ChattyLittleNpc_Battle_for_Azeroth_voiceovers
+ignore:
+  - release.py
+  - README.md
+  - .vscode
+  - .github
+  - .venv
+  - .luarc.json
