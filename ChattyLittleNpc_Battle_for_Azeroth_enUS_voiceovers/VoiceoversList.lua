@@ -1,7 +1,7 @@
----@class ChattyLittleNpc_Battle_for_Azeroth_voiceovers
-local ChattyLittleNpc_Battle_for_Azeroth_voiceovers = _G["ChattyLittleNpc_Battle_for_Azeroth_voiceovers"]
+---@class ChattyLittleNpc_Battle_for_Azeroth_enUS_voiceovers
+local ChattyLittleNpc_Battle_for_Azeroth_enUS_voiceovers = _G["ChattyLittleNpc_Battle_for_Azeroth_enUS_voiceovers"]
 
-ChattyLittleNpc_Battle_for_Azeroth_voiceovers.Voiceovers = {
+ChattyLittleNpc_Battle_for_Azeroth_enUS_voiceovers.Voiceovers = {
     '11665_Comp.mp3',
     '11665_Desc.mp3',
     '11665_Prog.mp3',
@@ -10370,7 +10370,7 @@ ChattyLittleNpc_Battle_for_Azeroth_voiceovers.Voiceovers = {
     '9280_Prog.mp3',
 }
 
-ChattyLittleNpc_Battle_for_Azeroth_voiceovers.VoiceoverDurations = {
+ChattyLittleNpc_Battle_for_Azeroth_enUS_voiceovers.VoiceoverDurations = {
     ["11665_Comp.mp3"] = 9.94,
     ["11665_Desc.mp3"] = 26.42,
     ["11665_Prog.mp3"] = 2.66,
